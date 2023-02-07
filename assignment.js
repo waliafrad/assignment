@@ -120,7 +120,7 @@ const friendOne   = 100;
 const friendTwo   = 5;
 const friendThree = 1;
 const gemsToDiamondResult = gemsToDiamond(friendOne, friendTwo, friendThree)
-console.log(gemsToDiamondResult);
+// console.log(gemsToDiamondResult);
 
 
 
